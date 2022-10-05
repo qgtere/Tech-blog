@@ -38,7 +38,7 @@ Now you can start your server:
 Finally open your browser on `http://localhost:3001`
 
 ## Deployed Application
-[Link to the app](https://)
+[Link to the app](https://stormy-taiga-77834.herokuapp.com)
 
 ## Techs
 * Javascript
